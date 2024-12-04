@@ -17,3 +17,13 @@ class player:
         self.won = False
         self.solves = 0
 player1 = player()
+
+#############
+# Map Setup	#
+#############
+"""
+You are in ....
+
+You can (how to move, etc)
+"""
+
