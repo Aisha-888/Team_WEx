@@ -53,3 +53,9 @@ def title_screen():
 	print("                 .: Quit :.                  ")
 	title_screen_options()
 
+#main loop
+def main_game_loop():
+	total_puzzles = 6
+	while player1.won is False:
+		#print_location()
+		prompt()
